@@ -10,6 +10,6 @@ Available also [Here](https://nbviewer.jupyter.org/github/francescomoriello/Quan
 
 ## Monte-Carlo simulations
 
-The Jupyter notebook contains a theoretical overview of risk-neutral pricing and its implementation via Monte-Carlo simulations. The case of 'Exchange options' and 'Forward start options' is discussed in details.
+The Jupyter notebook contains a theoretical overview of risk-neutral pricing and its implementation via Monte-Carlo simulations. The case of 'Exchange options' and 'Forward start options' is discussed in detail.
 
 Available also [Here](https://nbviewer.jupyter.org/github/francescomoriello/Quantitative-Analysis/blob/main/MC_Simulation.ipynb) 
