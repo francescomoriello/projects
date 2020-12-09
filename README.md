@@ -4,7 +4,7 @@ Implementation of various pricing methods for options
 
 ## Binimial Trees
 
-The Jupyter notebook contains a theoretical overview of pricing in the binomial tree model, and its implementation for vanilla European and American options. Convergence of binomial prices to Black-Scholes prices is discussed.
+The Jupyter notebook contains a theoretical overview of pricing in the binomial tree model, and its implementation for various European and American options. Convergence of binomial prices to Black-Scholes prices is discussed.
 
 Available also [Here](https://nbviewer.jupyter.org/github/francescomoriello/Quantitative-Analysis/blob/main/Binomial_Trees.ipynb) 
 
