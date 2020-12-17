@@ -1,4 +1,4 @@
-# Quantitative-Analysis
+# Various subjects in quantitative finance
 
 Implementation of various pricing methods for options
 
