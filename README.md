@@ -1,4 +1,4 @@
-# Various subjects in quantitative finance
+# Various subjects in quantitative analysis
 
 Implementation of various pricing methods for options
 
